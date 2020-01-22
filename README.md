@@ -4,4 +4,4 @@ Run **`npm start`** to run the app
 
 ## Description
 
-Simple demo showcasing React suspense for data fetching with Axios.
+Simple demo showcasing React Suspense for Data Fetching with Axios.
