@@ -1,4 +1,4 @@
-const apiUrl = "http://www.mocky.io/v2";
+const apiUrl = "https://www.mocky.io/v2";
 
 const config = {
   apiEndpoints: {
